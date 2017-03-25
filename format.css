@@ -1,0 +1,22 @@
+.body {
+  background-color: #FFFEEF;
+  color: #333;
+  font-size: 14px;
+  font-family: "Avenir", Verdana, sans-serif;
+  width: 99%;
+}
+
+#title {
+  text-align: center
+}
+
+#break_lines {
+  text-indent: 30px;
+  font-family: 'Avenir', Verdana, sans-serif; 
+  font-size: 14px; 
+  word-wrap: break-all;
+}
+
+#summary {
+  text-align: center;
+}

@@ -6,6 +6,10 @@
   width: 99%;
 }
 
+#title {
+  text-align: center
+}
+
 #break_lines {
   text-indent: 30px;
   font-family: 'Avenir', Verdana, sans-serif; 
